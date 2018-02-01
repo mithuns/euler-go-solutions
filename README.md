@@ -1,2 +1,2 @@
 # euler-go-solutions
-Solutions to Euler problems
+Solutions to Euler problems in go
