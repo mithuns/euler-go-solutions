@@ -1,3 +1,5 @@
+//https://projecteuler.net/problem=2
+//find the sum of the even-valued terms of Fibonacci sequence for given N
 package main
 import "fmt"
 
