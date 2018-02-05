@@ -1,3 +1,5 @@
+//https://projecteuler.net/problem=3
+//find the largest prime factor of the given N
 package main
 import "fmt"
 
