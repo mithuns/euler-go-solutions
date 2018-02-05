@@ -1,3 +1,5 @@
+//https://projecteuler.net/problem=1
+//Find the sum of all the multiples of 3 or 5 below N
 package main
 import (
         "fmt"
